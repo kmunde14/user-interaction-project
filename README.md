@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Interaction Streaming Pipeline (Kafka + Python)
 
 This project simulates and processes user interaction events in real-time using **Apache Kafka**, **Python**, **SQLite**, and **pandas**.
@@ -26,3 +27,6 @@ This project simulates and processes user interaction events in real-time using 
 
 ## 🗂️ Project Structure
 
+=======
+# user-interaction-project
+>>>>>>> 69e72137c845d6377b144f3ba72d897868e8d5b6
